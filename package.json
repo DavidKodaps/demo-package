@@ -1,0 +1,9 @@
+{
+  "name": "@kodaps/demo-module",
+  "version": "0.1.0",
+  "description": "Module to test module creation ",
+  "main": "index.js",
+  "author": "David Kodaps",
+  "license": "MIT",
+  "private": false
+}
